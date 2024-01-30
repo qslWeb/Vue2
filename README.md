@@ -53,4 +53,4 @@ Vue ，React ，Angular 三大主流框架，最后我选择学习 Vue ，接触
 [详细 style-guide 请参看官网](https://cn.vuejs.org/v2/style-guide/)
 
 
-这是一个测试
+这是一个测试  新的方法有没有更重要的作用
